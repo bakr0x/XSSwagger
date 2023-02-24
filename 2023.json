@@ -1,0 +1,10 @@
+{
+"swagger": "2.0",
+"url": "https://raw.githubusercontent.com/Rounak999/SwaggerXSS/main/test.yaml",
+"urls": [
+{
+"url": "https://raw.githubusercontent.com/Rounak999/SwaggerXSS/main/test.yaml",
+"name": "Foo"
+}
+]
+}
